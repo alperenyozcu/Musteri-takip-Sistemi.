@@ -1,0 +1,144 @@
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\bin\Debug\otomotiv Müşteri takip.exe.config
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\bin\Debug\otomotiv Müşteri takip.exe
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\bin\Debug\otomotiv Müşteri takip.pdb
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.exe
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.pdb
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\otomotiv müşteri takip\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\esegu\OneDrive\Masaüstü\Programlama\Aksoy Garaj Müşteri Takip Sistemi\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\müşteri takip sistemi\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Alperen\Desktop\kopya tamamdır - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Guna.UI2.dll
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form6.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Guna.UI2.dll
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form6.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+C:\Users\Alperen\Desktop\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe.config
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.exe
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\bin\Debug\Otomotiv Müşteri Takip.pdb
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csprojAssemblyReference.cache
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form1.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form2.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form3.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form4.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Form6.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv_Müşteri_takip.Properties.Resources.resources
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.GenerateResource.cache
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CoreCompileInputs.cache
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\otomotiv Müşteri takip.csproj.CopyComplete
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.exe
+D:\Taşkın garajFinal\Taşkın garaj kilitli - Kopya - Kopya\Aksoy Garaj Müşteri Takİp Sistemi Hatasız\otomotiv Müşteri takip\obj\Debug\Otomotiv Müşteri Takip.pdb
